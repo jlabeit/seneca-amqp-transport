@@ -36,7 +36,6 @@ module.exports = function(opts) {
   );
 
   return {
-    tag: PLUGIN_TAG,
     name: PLUGIN_NAME
   };
 };
